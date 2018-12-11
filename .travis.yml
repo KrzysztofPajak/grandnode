@@ -11,3 +11,4 @@ script:
  - dotnet test ./Tests/Grand.Core.Tests/Grand.Core.Tests.csproj
  - dotnet test ./Tests/Grand.Services.Tests/Grand.Services.Tests.csproj
  - dotnet publish Grand.Web -c Release
+ 
